@@ -1,0 +1,146 @@
+[
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/jiotvv.json",
+        "icon": "https://cdn.dribbble.com/users/571852/screenshots/1602184/dribbble.png",
+        "name": "JOOLY TV + CatchUP",
+        "fname": "Works only in india",
+        "sname": "Enjoy the 400+ Channels",
+        "refresh": "false",
+        "direct_card": true
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/jioautotv.json",
+        "icon": "https://cdn.dribbble.com/users/571852/screenshots/1602184/dribbble.png",
+        "name": "JOOLY Tv Direct",
+        "fname": "Enjoy 400+ Channels",
+        "sname": "Works India Only",
+        "refresh": "false",
+        "direct_card": true
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/singamtv.json",
+        "icon": "https://vectors.pro/wp-content/uploads/2017/09/ukip-new-logo-vector-lions-head.png",
+        "name": "Singam TV",
+        "fname": "Works Worldwide",
+        "sname": "450 + Channels",
+        "refresh": "false",
+        "direct_card": true
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/unicorntv.json",
+        "icon": "https://cdn3.vectorstock.com/i/1000x1000/40/02/unicorn-logo-element-isolated-on-white-vector-14044002.jpg",
+        "name": "Unicorn TV",
+        "fname": "100+ Channels",
+        "sname": "Works WorldWide",
+        "refresh": "false",
+        "direct_card": false
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/yestvv.json",
+        "icon": "https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/ibe34321d22c33b60/version/1472272394/image.png",
+        "name": "yestv",
+        "fname": "Works WorldWide",
+        "sname": "100 + Channels",
+        "refresh": "false",
+        "direct_card": false
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/startv.json",
+        "icon": "http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/02/22/star.jpg",
+        "name": "Star premium",
+        "fname": "All Star Channels",
+        "sname": "Works Only in India",
+        "refresh": "false",
+        "direct_card": false
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/sonylivtv.json",
+        "icon": "https://medianews4u.com/wp-content/uploads/2017/11/sony-liv-logo-1-1-2.jpg",
+        "name": "Sonyliv TV",
+        "fname": "100 + Channels",
+        "sname": "Works Only in India",
+        "refresh": "false",
+        "direct_card": false
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/sportstv.json",
+        "icon": "https://cdn.freebiesupply.com/logos/large/2x/sports-logo-png-transparent.png",
+        "name": "Sports Premium",
+        "fname": "All Sports Channels",
+        "sname": "Works Only in India",
+        "refresh": "false",
+        "direct_card": false
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/lavrocktv.json",
+        "icon": "https://cdn5.f-cdn.com/contestentries/988818/23469523/58e1290cb4536_thumb900.jpg",
+        "name": "lavrock",
+        "fname": "60 + Best Channels",
+        "sname": "Works Wordwide",
+        "refresh": "false",
+        "direct_card": false
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/volvotv.json",
+        "icon": "https://static.planetminecraft.com/files/resource_media/screenshot/1730/sl-1501340720_lrg.png",
+        "name": "volvo",
+        "fname": "300 + Channels",
+        "sname": "Works Worldwide",
+        "refresh": "false",
+        "direct_card": false
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/zeetv.json",
+        "icon": "https://apk.co/images/ozee-entertainment-now-141616.png",
+        "name": "Zee TV Official",
+        "fname": "100+ Channels",
+        "sname": "Works Only in India",
+        "refresh": "false",
+        "direct_card": false
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/jaguartv.json",
+        "icon": "http://indiannerve.com/wp-content/uploads/2013/07/Jaguar-Logo.jpg",
+        "name": "Jaguar TV",
+        "fname": "125+ Channels",
+        "sname": "Works Worldwide",
+        "refresh": "false",
+        "direct_card": false
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/mxtv.json",
+        "icon": "https://media2.motoonline.com.au/wp-content/uploads/2017/03/MXLive-on-NRGtv.png",
+        "name": "MX TV",
+        "fname": "200 + Channels",
+        "sname": "Works Only in India",
+        "refresh": "false",
+        "direct_card": false
+    },
+	 {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/c30f97410482a8fe03181c39c2f3c1143015c29f/hutsen.json",
+        "icon": "https://www.magneticmag.com/.image/t_share/MTY1MTczMzk2MzUzNTkwNTg0/spotify_icon_cmyk_green.png",
+        "name": "Hoola TV",
+        "fname": "60 + Channels",
+        "sname": "Works Only in India",
+        "refresh": "false",
+        "direct_card": false
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/oreotv1.7.3/raw/ac5eb42806169fba26abece34c597b483bb982e2/heather.json",
+        "icon": "https://www.graphicsprings.com/filestorage/stencils/1ce0593359147e465fcd2ab7bf619491.png?width=500&height=500",
+        "name": "Hallow TV",
+        "fname": "Works WorldWide",
+        "sname": "Enjoy the 400+ Channels",
+        "refresh": "false",
+        "direct_card": false
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/4d4bf60ff711c901ca57c3fabb57da927683697a/rqtv.json",
+        "icon": "https://cdn3.iconfinder.com/data/icons/facebook-ui-flat/48/Facebook_UI-23-512.png",
+        "name": "Requested",
+        "fname": "Users Requested Channels",
+        "sname": "WorldWide + India",
+        "refresh": "false",
+        "direct_card": false
+    }
+]

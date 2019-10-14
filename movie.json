@@ -1,0 +1,28 @@
+[
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/175ce5dab5926813de41066cdeec6f50159ffd06/hotstarmovies.json",
+        "icon": "https://media.glassdoor.com/sqll/1465942/hotstar-squarelogo-1497234030168.png",
+        "name": "HOTSTAR MOVIES",
+        "fname": "2000+ @ 8 Languages",
+        "sname": "Works Only in India",
+        "refresh": "false",
+        "direct_card": false
+    }, {
+        "api": "https://bitbucket.org/oreotv/oreov1.6/raw/141941294376aa057a6f6a6b64b56e97960f410d/movies/mastermov.json",
+        "icon": "https://i.pinimg.com/originals/70/fe/e4/70fee4d1f674e8c1a12ddf971372464f.jpg",
+        "name": "SUN SHINE MOVIES",
+        "fname": "2000+ @ 8 Languages",
+        "sname": "Works Only in India",
+        "refresh": "false",
+        "direct_card": false
+    },
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/77e90431ce8b45a507f69f27f83499b5749a455f/4k.json",
+        "icon": "https://gigablue.de/wp-content/uploads/2016/04/4K-UHD-logo-png.png",
+        "name": "4K HD",
+        "fname": "Documentry",
+        "sname": "Works Worldwide",
+        "refresh": "false",
+        "direct_card": true
+    }
+]
